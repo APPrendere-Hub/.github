@@ -1,4 +1,4 @@
-![alt text](/images/Normale.png?raw=true "APPrendere")
+![alt text](/profile/images/Normale.png?raw=true "APPrendere")
 
 APPrendere is a company specialized in Digital Learning Technology and Innovation.\
 We develop IT and Integration solutions concerning Learning Management Systems platforms.
